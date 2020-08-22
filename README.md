@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled Components
 
 
-## 📑 Projeto 
+## 📑 Projeto
 
 O objetivo é clonar a interface Web do Discord... os dados da aplicação Web são totalmente estáticos
 
