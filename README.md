@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="CloneDiscord" src=".github/Capturar.PNG" width="100%">
+  <img alt="CloneDiscord" src=".github/Capturar3.PNG" width="100%">
 </p>
 
 ## 🎮 Tecnologias
