@@ -30,4 +30,4 @@ O objetivo é clonar a interface Web do Discord... os dados da aplicação Web s
 
 ## 🎥 Referencia 
 
-Recriando a Interface do Discord com ReactJS | UI Clone (Canal do YouTube da Rockseat)
+Recriando a Interface do Discord com ReactJS | UI Clone (Canal do YouTube da Rockseat) 
